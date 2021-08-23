@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://shembi2:shembi2@devconnector.mzrqd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "3d8012cb2ce72241f60c",
+  "githubSecret": "7816897899a335f37d739b666c14c74671483fbd"
+}
